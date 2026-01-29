@@ -2,5 +2,6 @@
 
 We release the safety reasoning dataset **VLSBench-Reason** here:
 
-👉 **[VLSBench-Reason (GitHub)](https://github.com/your-username/VLSBench-Reason)** 
+👉 **[VLSBench-Reason](https://github.com/codesubmission-tool/Sense-then-Reason/releases/download/v1/results_vlsbench_cleaned.jsonl)** 
 
+The image should be downloaded from **[VLSBench](https://github.com/AI45Lab/VLSBench)** 
